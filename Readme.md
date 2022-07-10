@@ -6,12 +6,6 @@ This repository is about a heroes app, where you can search heroes and know info
 
 I used for the creation ReactJs, React Router Dom and Bootstrap.
 
-## Project Visualization
-
-Use this link to enter and view the complete project:
-
-
-
 ## Screenshots
 
 ### Home 
@@ -35,4 +29,11 @@ Use this link to enter and view the complete project:
 ### Heroe information
 
 [![PageIn.png](https://i.postimg.cc/mg3QV1yx/PageIn.png)](https://postimg.cc/Wd3F13yS)
+
+
+## Project Visualization
+
+Use this link to enter and view the complete project:
+
+https://heroes-9db6i9wov-felixmartinezcasadiego.vercel.app/marvel
 
