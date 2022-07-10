@@ -35,5 +35,5 @@ I used for the creation ReactJs, React Router Dom and Bootstrap.
 
 Use this link to enter and view the complete project:
 
-https://heroes-9db6i9wov-felixmartinezcasadiego.vercel.app/marvel
+https://heroes-app-murex.vercel.app/marvel
 
